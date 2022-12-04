@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-microservices-aws",
+  "version": "1.0.0",
+  "description": "Example of Node.js microservices setup using Docker, Docker-Compose and Kubernetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabandr/nodejs-microservices-k8s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabandr/nodejs-microservices-k8s/issues"
+  },
+  "homepage": "https://github.com/kabandr/nodejs-microservices-k8s#readme",
+  "devDependencies": {
+    "figit": "0.0.8"
+  }
+}
