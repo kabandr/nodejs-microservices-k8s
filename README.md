@@ -81,7 +81,11 @@ cd nodejs-microservices-k8s
 Use Docker Compose to start the microservies application:
 
 ```bash
-docker compose up --build
+docker compose up --build   // to see the logs. 
+
+or 
+
+docker compose up -d        // to run services in the background.
 ```
 
 A web page is now available:
